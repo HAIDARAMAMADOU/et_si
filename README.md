@@ -127,6 +127,7 @@ lib/
   main.dart
  test/                 # Tests unitaires et widget
  .github/workflows/    # Intégration continue GitHub Actions
+CHANGELOG.md           # versions documentées
 ```
 
 ## État du projet
