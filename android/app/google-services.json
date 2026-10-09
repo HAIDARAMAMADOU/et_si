@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209827023192",
+    "project_id": "et-si-app",
+    "storage_bucket": "et-si-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209827023192:android:372ee5c8d3acdd03917d2d",
+        "android_client_info": {
+          "package_name": "com.etsilab.et_si"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YGH_vBDBhaqFxT7nBe4v_z8UtU1gMQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
